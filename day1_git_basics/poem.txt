@@ -3,3 +3,4 @@ b for ball
 c for cat
 d for dog
 e for elephant
+f for fruit
